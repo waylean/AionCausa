@@ -56,7 +56,7 @@ npm -v
 方式 A：使用 Git 克隆。
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/waylean/AionCausa.git
 cd AionCausa
 ```
 

@@ -56,7 +56,7 @@ If both commands print versions, Node.js and npm are ready.
 Option A: clone with Git.
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/waylean/AionCausa.git
 cd AionCausa
 ```
 
